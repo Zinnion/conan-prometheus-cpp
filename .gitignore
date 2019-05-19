@@ -1,0 +1,4 @@
+build/
+*.pyc
+test_package/build
+
