@@ -6,7 +6,7 @@ import os
 
 class PrometheuscppConan(ConanFile):
     name = "prometheus-cpp"
-    version = "0.6.0"
+    version = "0.7.0"
     description = "Prometheus Client Library for Modern C++"
     topics = ("conan", "prometheuscpp")
     url = "https://github.com/zinnion/conan-prometheus-cpp"
